@@ -10,7 +10,7 @@ FrontEnd Developer, QA Manual & future BackEnd Developer
 
 
 ## Skills :mechanical_arm:
-<img src="{(https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)}" />
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 
 * 💻 HTML | CSS | React | TypeScript | Javascript
 
