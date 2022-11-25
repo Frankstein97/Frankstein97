@@ -1,14 +1,13 @@
 
 
-## Hola Mundo!!! :vulcan_salute:
+# Hola Mundo!!! :vulcan_salute:
 
 ![Header](https://c4.wallpaperflare.com/wallpaper/383/679/624/adventure-time-bmo-wallpaper-preview.jpg)
 
-## Soy Franco Nicoletti :black_heart::rainbow:
+# Soy Franco Nicoletti :black_heart::rainbow:
+>### FrontEnd Developer, QA Manual & Future BackEnd Developer :monocle_face:
+> 		<alert> Estoy trabajando para completar aún mas mi portfolio... </alert> 
 
-### FrontEnd Developer, QA Manual & Future BackEnd Developer
----
-> *Estoy trabajando para completar aun mas mi portfolio... :monocle_face:*
 ---
 ## Skills :mechanical_arm:
 
@@ -32,8 +31,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Frankstein97=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Frankstein97=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frankstein97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Seguime en redes! :left_speech_bubble:
 <br>
@@ -42,7 +40,7 @@
 	<a href="https://github.com/Frankstein97"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&logoWidth=50" alt="GitHub"></a>
 </p>
 
-# Gracias por llegar hasta aca!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Gracias por llegar hasta aca!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--
 Badge(s) creados con  https://simpleicons.org/
 **Frankstein97/Frankstein97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
